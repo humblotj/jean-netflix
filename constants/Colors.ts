@@ -4,4 +4,5 @@ export default {
   tabIconDefault: '#7c7c7c',
   tabIconSelected: '#fff',
   tabBackground: "#161616",
+  logo: "#DB202C"
 };
